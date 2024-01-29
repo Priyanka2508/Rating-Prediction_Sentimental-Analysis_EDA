@@ -31,7 +31,7 @@ count of Instagram influencers in different countries using barchart.
 ● Posts and Average likes
 ● Posts and Influence Score
 
-#Twitter Sentimental Analysis:
+# Twitter Sentimental Analysis:
 It Analyses and classifies the tweets into three sentiments which are negative, neutral and positive.
 1. Load the dataset
 2. 

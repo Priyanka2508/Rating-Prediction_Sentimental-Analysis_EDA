@@ -34,6 +34,22 @@ count of Instagram influencers in different countries using barchart.
 # Twitter Sentimental Analysis:
 It Analyses and classifies the tweets into three sentiments which are negative, neutral and positive.
 1. Load the dataset
-2. 
+2. Preprocess the dataset:
+
+      ○ Change case of the words to lower
+      ○ Remove URLs and twitter handle patterns
+      ○ Remove special characters, punctiations and numbers
+      ○ Remove stop words
+      ○ Tokenization
+      ○ Drop duplicates
+4.Stemming: Using Porter Stemmer
+5. Lemmetization
+6. Combine words to sentence
+7. Data Visualization of allwords, positive and negative.
+8. Model Building and Evaluation
+      
+   
+      
+10. 
 
 

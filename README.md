@@ -46,10 +46,12 @@ It Analyses and classifies the tweets into three sentiments which are negative, 
 5. Lemmetization
 6. Combine words to sentence
 7. Data Visualization of allwords, positive and negative.
-8. Model Building and Evaluation
-      
-   
-      
-10. 
+8. Model Building and Evaluation: The following models were built and assessed:
+      1. Logistic regression
+      2. Bernoulli Naive Bayes
+      3. SVCmodel
+      4. XGB Classifier
+
+9. Evaluation Metrics: Accuracy score, precision,recall,f1score, support and ROC curve
 
 
